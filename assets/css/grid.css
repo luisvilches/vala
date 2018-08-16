@@ -1,0 +1,148 @@
+/* margins */
+
+.m10{margin: 10px;}
+.m20{margin: 20px;}
+.m30{margin: 30px;}
+.m40{margin: 40px;}
+.m50{margin: 50px;}
+.m60{margin: 60px;}
+.m70{margin: 70px;}
+.m80{margin: 80px;}
+.m90{margin: 90px;}
+.m100{margin: 100px;}
+
+.mt10{margin-top: 10px;}
+.mt20{margin-top: 20px;}
+.mt30{margin-top: 30px;}
+.mt40{margin-top: 40px;}
+.mt50{margin-top: 50px;}
+.mt60{margin-top: 60px;}
+.mt70{margin-top: 70px;}
+.mt80{margin-top: 80px;}
+.mt90{margin-top: 90px;}
+.mt100{margin-top: 100px;}
+
+.ml10{margin-left: 10px;}
+.ml20{margin-left: 20px;}
+.ml30{margin-left: 30px;}
+.ml40{margin-left: 40px;}
+.ml50{margin-left: 50px;}
+.ml60{margin-left: 60px;}
+.ml70{margin-left: 70px;}
+.ml80{margin-left: 80px;}
+.ml90{margin-left: 90px;}
+.ml100{margin-left: 100px;}
+
+.mb10{margin-bottom: 10px;}
+.mb20{margin-bottom: 20px;}
+.mb30{margin-bottom: 30px;}
+.mb40{margin-bottom: 40px;}
+.mb50{margin-bottom: 50px;}
+.mb60{margin-bottom: 60px;}
+.mb70{margin-bottom: 70px;}
+.mb80{margin-bottom: 80px;}
+.mb90{margin-bottom: 90px;}
+.mb100{margin-bottom: 100px;}
+
+.mr10{margin-right: 10px;}
+.mr20{margin-right: 20px;}
+.mr30{margin-right: 30px;}
+.mr40{margin-right: 40px;}
+.mr50{margin-right: 50px;}
+.mr60{margin-right: 60px;}
+.mr70{margin-right: 70px;}
+.mr80{margin-right: 80px;}
+.mr90{margin-right: 90px;}
+.mr100{margin-right: 100px;}
+
+/* paddings */
+
+.p10{padding: 10px;}
+.p20{padding: 20px;}
+.p30{padding: 30px;}
+.p40{padding: 40px;}
+.p50{padding: 50px;}
+.p60{padding: 60px;}
+.p70{padding: 70px;}
+.p80{padding: 80px;}
+.p90{padding: 90px;}
+.p100{padding: 100px;}
+
+.pt10{margin-top: 10px;}
+.pt20{margin-top: 20px;}
+.pt30{margin-top: 30px;}
+.pt40{margin-top: 40px;}
+.pt50{margin-top: 50px;}
+.pt60{margin-top: 60px;}
+.pt70{margin-top: 70px;}
+.pt80{margin-top: 80px;}
+.pt90{margin-top: 90px;}
+.pt100{margin-top: 100px;}
+
+.pl10{margin-left: 10px;}
+.pl20{margin-left: 20px;}
+.pl30{margin-left: 30px;}
+.pl40{margin-left: 40px;}
+.pl50{margin-left: 50px;}
+.pl60{margin-left: 60px;}
+.pl70{margin-left: 70px;}
+.pl80{margin-left: 80px;}
+.pl90{margin-left: 90px;}
+.pl100{margin-left: 100px;}
+
+.pb10{margin-bottom: 10px;}
+.pb20{margin-bottom: 20px;}
+.pb30{margin-bottom: 30px;}
+.pb40{margin-bottom: 40px;}
+.pb50{margin-bottom: 50px;}
+.pb60{margin-bottom: 60px;}
+.pb70{margin-bottom: 70px;}
+.pb80{margin-bottom: 80px;}
+.pb90{margin-bottom: 90px;}
+.pb100{margin-bottom: 100px;}
+
+.pr10{margin-right: 10px;}
+.pr20{margin-right: 20px;}
+.pr30{margin-right: 30px;}
+.pr40{margin-right: 40px;}
+.pr50{margin-right: 50px;}
+.pr60{margin-right: 60px;}
+.pr70{margin-right: 70px;}
+.pr80{margin-right: 80px;}
+.pr90{margin-right: 90px;}
+.pr100{margin-right: 100px;}
+
+/* aligns */
+
+.aling-left{text-align: left;}
+.aling-center{text-align: center;}
+.aling-right{text-align: right;}
+.aling-center-all{margin-left: 30%;margin-right: 30%;}
+.float-left{float: left;}
+.float-right{float: right;}
+
+/* esta clase permite centrar texto verticalmente dentro de un div */
+
+.vertical-centered-text {height: 200px;display: table;}
+.vertical-centered-text > * {display: table-cell;vertical-align: middle;}
+
+/* posiciones */
+
+.absolute{position: absolute;}
+.relative{position: relative;}
+.inherit{position: inherit;}
+.initial{position: initial;}
+
+/* tratar elementos */
+
+.center-block{margin: 0 auto;display: block;}
+
+/* img responsive */
+
+.img-responsive{display:block; width:100%; height:auto;}
+
+/* displays */
+
+.block{display: block;}
+.inline-block{display: inline-block;}
+.inline{display: inline;}
